@@ -62,7 +62,7 @@ function preload() {  //para agregar imagen
   NubesPic3 = loadImage('nube3.png');
   NubesPic4 = loadImage('nube4.png');
   sonidoPelota = loadSound('sfx-swoosh1.mp3');  
-  sonidoParlante = loadSound('cumbia.mp3');
+  sonidoParlante = loadSound('cumbia_nena.mp3');
   sonidoAmbiente = loadSound('vendedor_1.mp3')
   sonidoPerros = loadSound('perros.mp3');
   sonidoNoche = loadSound('noche.mp3');
